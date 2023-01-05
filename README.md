@@ -4,7 +4,7 @@ This repo contains code snippets and datasets used in my Medium article "7 of th
 
 https://medium.com/p/bcc50f48474d/edit
 
-![](./read_me_img/header.png)
+![](./img/header_img.png)
 
 ## Used Libraries and Tools
 
